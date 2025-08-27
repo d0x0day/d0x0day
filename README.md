@@ -3,4 +3,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d0x0day&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=550&card_height=250)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d0x0day&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d0x0day&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d0x0day&theme=tokyonight) 
